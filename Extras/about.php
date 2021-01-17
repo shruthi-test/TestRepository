@@ -1,4 +1,5 @@
 <?php include'header.php'; ?>
+<?php echo "hi"; ?>
 <div class="inr-bnr">
 	<div class="container">
 		<nav class="breadcrumb">
